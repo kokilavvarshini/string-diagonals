@@ -1,2 +1,2 @@
 # string-diagonals
-printing the string in the diagonals 
+printing a string in the diagonals 
